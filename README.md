@@ -1,5 +1,5 @@
 [EmberForge-Hunt-Report-Final.md](https://github.com/user-attachments/files/26634573/EmberForge-Hunt-Report-Final.md)
-# 🔥 Threat Hunt Report: EmberForge Studios — Source Leak Investigation
+#  Threat Hunt Report: EmberForge Studios — Source Leak Investigation
 
 **Analyst:** [Your Name]
 **Date:** 2026-01-30
