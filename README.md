@@ -1,7 +1,7 @@
 [EmberForge-Hunt-Report-Final.md](https://github.com/user-attachments/files/26634573/EmberForge-Hunt-Report-Final.md)
 #  Threat Hunt Report: EmberForge Studios — Source Leak Investigation
 
-**Analyst:** [Your Name]
+**Analyst:** Saran Deny
 **Date:** 2026-01-30
 **Platform:** Microsoft Sentinel — Workspace: `law-cyber-range`
 **Table:** `EmberForgeX_CL`
