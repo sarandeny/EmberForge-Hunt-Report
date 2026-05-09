@@ -6,7 +6,7 @@
 **Platform:** Microsoft Sentinel — Workspace: `law-cyber-range`
 **Table:** `EmberForgeX_CL`
 
-> 📁 **GitHub Setup:** Upload the `screenshots/` folder alongside this `.md` file. All images use relative paths `screenshots/filename.png`.
+
 
 ---
 
